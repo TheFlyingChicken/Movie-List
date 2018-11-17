@@ -15,5 +15,6 @@ target 'Movie List' do
     
     pod 'SVPullToRefresh'
     pod 'MBProgressHUD'
+    pod 'SnapKit'
 
 end
